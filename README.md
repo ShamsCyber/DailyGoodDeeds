@@ -1,7 +1,9 @@
 
 # TodayReward - 🌞 Your Daily Good Deed App
 🙌 تطبيق ثواب اليوم - TodayReward - پیشنهاد ثواب روزانه
-[🇬🇧 English](README.md) | [🇮🇷 فارسی](README_FA.md) | [🇸🇦 العربية](README_AR.md)
+[🇬🇧 English](README.md) 
+[🇮🇷 فارسی](README_FA.md) 
+[🇸🇦 العربية](README_AR.md)
 
 **A multilingual, motivational, and fully offline Android app that encourages doing one good deed per day. Built with Kotlin, Room, AlarmManager, and AI integration (Gemini API).**
 
