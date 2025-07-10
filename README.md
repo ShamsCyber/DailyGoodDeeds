@@ -2,8 +2,8 @@
 # TodayReward - 🌞 Your Daily Good Deed App
 🙌 تطبيق ثواب اليوم - TodayReward - پیشنهاد ثواب روزانه
 [🇬🇧 English](README.md) 
-[🇮🇷 فارسی](README_FA.md) 
-[🇸🇦 العربية](README_AR.md)
+[🇮🇷 Persian](README_FA.md) 
+[🇸🇦 Arabic](README_AR.md)
 
 **A multilingual, motivational, and fully offline Android app that encourages doing one good deed per day. Built with Kotlin, Room, AlarmManager, and AI integration (Gemini API).**
 
@@ -102,16 +102,11 @@ Still, it proves **highly usable as a real utility**, especially for religious/m
 
 ## 🌍 Multilingual README?
 
-GitHub doesn’t support auto-switching README based on region. You can:
+You can:
 
-- Add links at the top of the main README like:
-
-```markdown
-[🇬🇧 English](README.md) | [🇮🇷 فارسی](README_FA.md) | [🇸🇦 العربية](README_AR.md)
-```
-
-- Place other versions in `README_FA.md`, `README_AR.md`, etc.
-- Let users choose via these links.
+[🇬🇧 English](README.md)
+[🇮🇷 فارسی](README_FA.md)
+[🇸🇦 العربية](README_AR.md)
 
 ---
 
