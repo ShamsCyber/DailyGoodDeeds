@@ -1,61 +1,0 @@
-<resources>
-    <string name="app_name">ثواب اليوم</string>
-    <string name="error_response_ir">IP blocked! try with VPN</string>
-    <string name="share">مشاركة</string>
-    <string name="done">تم الإنجاز</string>
-    <string name="no_done_yet">أنجزته ✅</string>
-    <string name="language">🌐 اللغة</string>
-    <string name="daily_reminder">تذكير يومي</string>
-    <string name="reset_month">إعادة تعيين الشهر</string>
-    <string name="add_custom">أضف عمل صالح مخصص</string>
-    <string name="deeds_list">📋 قائمة الأعمال</string>
-    <string name="history">إحصائيات الشهر</string>
-    <string name="all_deeds">كل الأعمال الصالحة</string>
-    <string name="edit">تعديل</string>
-    <string name="delete">حذف</string>
-    <string name="set_alarm">تعيين وقت التذكير 🕗</string>
-    <string name="reset_success">تمت إعادة التعيين بنجاح ✅</string>
-    <string name="deleted">تم الحذف</string>
-    <string name="updated">تم التعديل</string>
-    <string name="reset_list">حذف العناصر المضافة</string>
-    <string name="yes">نعم</string>
-    <string name="no">لا</string>
-    <string name="confirm_delete">هل أنت متأكد من حذف الأعمال التي أضفتها بنفسك؟</string>
-    <string name="confirm_reset">إذا وافقت، ستُعاد جميع الأعمال كأنها لم تُنجز. هل أنت متأكد؟</string>
-    <string name="not_done">لم يتم بعد ❌</string>
-    <string name="ai_questtion_hint">اطرح سؤالك الشرعي (مثلاً: هل الغسل يوم الجمعة واجب؟)</string>
-    <string name="send">إرسال السؤال</string>
-    <string name="edit_api">API</string>
-    <string name="remove_api">حذف API</string>
-    <string name="api_key_google_ai">للحصول على إجابات شرعية من خلال الذكاء الاصطناعي، يجب إدخال مفتاح API. يمكنك الحصول عليه من Google AI أو مزودي الخدمة المشابهين.</string>
-    <string name="enter_api_key">أدخل المفتاح</string>
-    <string name="save">حفظ</string>
-    <string name="cancel">إلغاء</string>
-    <string name="api_key_saved">تم حفظ مفتاح API</string>
-    <string name="open_google_api_site">https://aistudio.google.com/app/apikey</string>
-    <string name="enter_api_key_dialog_title">إدخال مفتاح API</string>
-    <string name="remove_api_key_title">حذف مفتاح API</string>
-    <string name="remove_api_key_message">هل أنت متأكد أنك تريد حذف مفتاح API؟</string>
-    <string name="api_key_removed">تم حذف مفتاح API بنجاح.</string>
-    <string name="manage_api_key_title">إدارة مفتاح API</string>
-    <string name="edit_api_key">تعديل مفتاح API</string>
-    <string name="delete_api_key">حذف المفتاح</string>
-    <string name="api_key_deleted">تم حذف المفتاح</string>
-    <string name="question_required_toast">يرجى إدخال سؤالك</string>
-    <string name="error_no_api_key">❗ لم يتم إدخال مفتاح API.</string>
-    <string name="error_server_response">❗ خطأ في استلام الرد من الخادم</string>
-    <string name="quick_help">كل يوم ستحصل على اقتراح لعمل صالح يجعلك تشعر بالرضا ☀️\nاضغط على "أنجزته" لتتبع إنجازك لهذا الشهر.\nيمكنك إضافة منبه يومي أو إدخال أعمال خاصة بك.\nولا تنسَ مشاركة الخير مع أصدقائك!</string>
-    <string name="daily_notification_channel_name">تذكير يومي بالثواب</string>
-    <string name="daily_notification_title">لا تنس ثواب اليوم ☀️</string>
-    <string name="daily_notification_text">ابدأ يومك بعمل صالح.</string>
-    <string name="loading_text">جاري الإرسال ...</string>
-    <string name="share_deed_text">
-        بين كل مقاطع إنستغرام والنكات التافهة على تيليغرام، أخيرًا وجدت شيئًا له معنى حقيقي — ينفع في الدنيا والآخرة.&#10;
-        قمت اليوم بهذا العمل: “%1$s”&#10;
-        إذا شعرت أنّه يناسبك، جرّبه أيضًا. أحيانًا عمل صغير يترك أثرًا كبيرًا 💙
-    </string>
-    <string name="add_api_key">أضف مفتاح API</string>
-    <string name="create_api_key">احصل على مفتاح API</string>
-    <string name="confirm_delete_item">هل أنت متأكد أنك تريد حذف “%1$s”؟</string>
-    <string name="notif_permission_required">لا يمكننا تفعيل الإشعارات بدون إذنك</string>
-</resources>

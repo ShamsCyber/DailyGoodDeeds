@@ -1,63 +1,0 @@
-<resources>
-    <string name="app_name">TodayReward</string>
-
-    <string name="share">اشتراک‌گذاری</string>
-    <string name="done">انجام شده</string>
-    <string name="no_done_yet">انجام دادم ✅</string>
-    <string name="language">🌐 زبان</string>
-    <string name="daily_reminder">یادآور روزانه</string>
-    <string name="reset_month">شروع مجدد ماه</string>
-    <string name="add_custom">اضافه کردن ثواب دلخواه</string>
-    <string name="deeds_list">📋 لیست ثواب‌ها</string>
-    <string name="history">آمار ماهانه</string>
-    <string name="all_deeds">لیست همه ثواب‌ها</string>
-    <string name="edit">ویرایش</string>
-    <string name="delete">حذف</string>
-    <string name="set_alarm">تنظیم زمان هشدار 🕗</string>
-    <string name="reset_success">با موفقیت ریست شد ✅</string>
-    <string name="deleted">حذف شد</string>
-    <string name="updated">ویرایش شد</string>
-    <string name="reset_list">حذف آیتم های خودم</string>
-    <string name="yes">بله</string>
-    <string name="no">خیر</string>
-    <string name="confirm_delete">آیا مطمئنی می‌خوای لیست ثواب‌هایی که خودت وارد کردی رو حذف کنی؟</string>
-    <string name="confirm_reset">اگه تایید کنی همه ثواب ها به حالت انجام نشده درمیاد، مطمئنی؟</string>
-    <string name="not_done">هنوز انجام نشده ❌</string>
-    <string name="ai_questtion_hint">سؤال شرعی‌تو بپرس (غسل جمعه واجبه؟)</string>
-    <string name="send">ارسال سؤال</string>
-    <string name="edit_api">API</string>
-    <string name="remove_api">حذف API</string>
-    <string name="api_key_google_ai">برای پاسخ شرعی با هوش مصنوعی، باید API Key وارد کنید. می‌تونید این کلید رو از Google AI یا ارائه‌دهنده‌های مشابه بگیرید.</string>
-    <string name="enter_api_key">کلید را وارد کنید</string>
-    <string name="save">ذخیره</string>
-    <string name="cancel">لغو</string>
-    <string name="api_key_saved">کلید ذخیره شد</string>
-    <string name="open_google_api_site">https://aistudio.google.com/app/apikey</string>
-    <string name="enter_api_key_dialog_title">وارد کردن API Key</string>
-    <string name="remove_api_key_title">حذف API Key</string>
-    <string name="remove_api_key_message">آیا مطمئن هستید که می‌خواهید کلید API را حذف کنید؟</string>
-    <string name="api_key_removed">API Key با موفقیت حذف شد.</string>
-    <string name="manage_api_key_title">مدیریت API Key</string>
-    <string name="edit_api_key">ویرایش API Key</string>
-    <string name="delete_api_key">حذف کلید</string>
-    <string name="api_key_deleted">کلید حذف شد</string>
-    <string name="question_required_toast">لطفاً سؤال خود را وارد کنید</string>
-    <string name="error_no_api_key">❗کلید API وارد نشده است.</string>
-    <string name="error_server_response">❗ خطا در دریافت پاسخ از سرور</string>
-    <string name="error_response_ir">متاسفانه به دلیل تحریم های ظالمانه خدمات این هوش مصنوعی به ایران امکان پذیر نیست لطفا با برنامه تغییر آی پی امتحان کنید</string>
-    <string name="quick_help">اینجا هر روز یه کار خوب بهت پیشنهاد میشه که انجامش بدی و حال دلت بهتر شه\nبعدش می‌تونی بزنی انجام دادم تا یادت بمونه توی این ماه انجامش دادی\nاگه خواستی، زنگ هشدار بذار یا یه کار خوب جدید اضافه کن\nحتی می‌تونی با دوستاتم شیرش کنی تا اونا هم ثواب کنن</string>
-    <string name="daily_notification_channel_name">یادآور روزانه ثواب</string>
-    <string name="daily_notification_title">ثواب امروزت رو یادت نره ☀️</string>
-    <string name="daily_notification_text">امروز رو با یک کار خوب شروع کن.</string>
-    <string name="loading_text">درحال ارسال ...</string>
-    <string name="share_deed_text">
-        بین کلی کلیپای اینستایی و جکای تلگرامی، بالاخره یه چیز درست حسابی پیدا کردم؛ یه کار کوچیک که هم به درد دنیا می‌خوره هم آخرت.&#10;
-        من امروز انجامش دادم: «%1$s»&#10;
-        تو هم اگه حسش بود، امتحانش کن. گاهی یه ثواب ساده، اثرش خیلی بزرگ‌تر از چیزیه که فکر می‌کنی 💙
-    </string>
-    <string name="add_api_key">اضافه کردن کلید</string>
-    <string name="create_api_key">دریافت API Key</string>
-    <string name="confirm_delete_item">آیا مطمئنی می‌خوای «%1$s» رو حذف کنی؟</string>
-    <string name="notif_permission_required">بدون اجازه، نوتیفیکیشن فعال نمی‌شود</string>
-
-</resources>
