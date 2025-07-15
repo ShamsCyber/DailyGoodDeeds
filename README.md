@@ -13,7 +13,7 @@
 
 ## 📱 App Preview
 
-![App Screenshot](screenshots/todayreward_preview.jpg)
+![App Screenshot](screenshots/preview.jpg)
 
 ---
 
