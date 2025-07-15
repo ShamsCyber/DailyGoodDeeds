@@ -40,7 +40,7 @@
 
 📌 الصورة التالية توضح التطبيق بثلاث لغات:
 
-![App Screenshot](screenshots/todayreward_preview.jpg)
+![App Screenshot](screenshots/preview.jpg)
 
 ---
 
