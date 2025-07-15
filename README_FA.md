@@ -40,7 +40,7 @@
 
 📌 تصویر زیر نحوه نمایش برنامه در سه زبان را نشان می‌دهد:
 
-![App Screenshot](screenshots/todayreward_preview.jpg)
+![App Screenshot](screenshots/preview.jpg)
 
 ---
 
