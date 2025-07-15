@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "fa": "به کسی لبخند بزن، حتی اگر نمی‌شناسی‌اش.",
+    "en": "Smile at someone today, even if you don't know them.",
+    "ar": "ابتسم لشخص اليوم، حتى لو لم تكن تعرفه."
+  },
+  {
+    "id": 2,
+    "fa": "دعای خیر برای یکی از دوستانت بکن.",
+    "en": "Pray for one of your friends today.",
+    "ar": "ادعُ لصديق من أصدقائك اليوم."
+  },
+  {
+    "id": 3,
+    "fa": "به یک نفر بدون انتظار جبران کمک کن.",
+    "en": "Help someone without expecting anything in return.",
+    "ar": "ساعد شخصًا دون أن تتوقع شيئًا بالمقابل."
+  },
+  {
+    "id": 4,
+    "fa": "صدقه‌ای هرچند کوچک بده.",
+    "en": "Give charity, even a small amount.",
+    "ar": "تصدّق ولو بالقليل."
+  },
+  {
+    "id": 5,
+    "fa": "از یک نفر بابت کار خوبی که کرده تشکر کن.",
+    "en": "Thank someone for something good they’ve done.",
+    "ar": "اشكر شخصًا على عملٍ خير قام به."
+  },
+  {
+    "id": 6,
+    "fa": "با صبر و سکوت، بحثی را ختم کن.",
+    "en": "End a conflict today with patience and silence.",
+    "ar": "أنهِ جدالًا اليوم بالصبر والصمت."
+  },
+  {
+    "id": 7,
+    "fa": "یکی از گناهانت را یادداشت کن و تصمیم به ترک آن بگیر.",
+    "en": "Write down a sin you struggle with and decide to stop it.",
+    "ar": "اكتب ذنبًا تكافحه وقرّر الإقلاع عنه."
+  },
+  {
+    "id": 8,
+    "fa": "به کسی که ناراحته، دلداری بده.",
+    "en": "Comfort someone who is upset today.",
+    "ar": "واسِ شخصًا حزينًا اليوم."
+  },
+  {
+    "id": 9,
+    "fa": "امروز غیبت نکن؛ حتی در دل.",
+    "en": "Avoid backbiting today—even in your thoughts.",
+    "ar": "تجنّب الغيبة اليوم، حتى في قلبك."
+  },
+  {
+    "id": 10,
+    "fa": "قرآن یا دعا بخوان، حتی اگر کوتاه باشد.",
+    "en": "Read Quran or a short prayer today.",
+    "ar": "اقرأ القرآن أو دعاءً قصيرًا اليوم."
+  },
+  {
+    "id": 11,
+    "fa": "پدر و مادرت را دعا کن، حتی اگر زنده نیستند.",
+    "en": "Pray for your parents, whether alive or passed.",
+    "ar": "ادعُ لوالديك، سواء كانوا أحياءً أو أمواتًا."
+  },
+  {
+    "id": 12,
+    "fa": "اگر دل کسی را شکستی، عذرخواهی کن.",
+    "en": "Apologize to someone you may have hurt.",
+    "ar": "اعتذر لمن قد تكون جرحت قلبه."
+  },
+  {
+    "id": 13,
+    "fa": "کسی را به یاد خدا بنداز.",
+    "en": "Remind someone of God today.",
+    "ar": "ذكّر شخصًا بالله اليوم."
+  },
+  {
+    "id": 14,
+    "fa": "اگر دلت گرفته، با خدا حرف بزن.",
+    "en": "If you're sad, talk to God today.",
+    "ar": "إن كنت حزينًا، تحدّث إلى الله."
+  },
+  {
+    "id": 15,
+    "fa": "امروز حرف بد نزن، حتی شوخی.",
+    "en": "Avoid using bad words today, even jokingly.",
+    "ar": "تجنّب الكلمات السيئة اليوم، حتى بالمزاح."
+  },
+  {
+    "id": 16,
+    "fa": "کسی را به خوبی‌اش یادآوری کن.",
+    "en": "Remind someone of their goodness today.",
+    "ar": "ذكّر شخصًا بطيبته اليوم."
+  },
+  {
+    "id": 17,
+    "fa": "برای نجات کسی از فقر یا غم دعا کن.",
+    "en": "Pray for someone to be saved from poverty or sadness.",
+    "ar": "ادعُ لخلاص شخص من الفقر أو الحزن."
+  },
+  {
+    "id": 18,
+    "fa": "به یک یتیم کمک کن یا برایشان دعا کن.",
+    "en": "Help an orphan or pray for them.",
+    "ar": "ساعد يتيمًا أو ادعُ له."
+  },
+  {
+    "id": 19,
+    "fa": "دروغ نگو، حتی برای راحتی.",
+    "en": "Don't lie, even if it makes things easier.",
+    "ar": "لا تكذب، حتى لو سهّل الأمر."
+  },
+  {
+    "id": 20,
+    "fa": "امروز دل کسی را شاد کن.",
+    "en": "Make someone happy today.",
+    "ar": "أدخل السرور على قلب شخص اليوم."
+  },
+  {
+    "id": 21,
+    "fa": "دست کم یک بار «الحمدلله» بگو از ته دل.",
+    "en": "Say 'Alhamdulillah' sincerely at least once.",
+    "ar": "قُل 'الحمد لله' من قلبك ولو مرّة."
+  },
+  {
+    "id": 22,
+    "fa": "به یک نفر کمک کن تا امیدش رو از دست نده.",
+    "en": "Help someone not lose hope today.",
+    "ar": "ساعد شخصًا على عدم فقدان الأمل اليوم."
+  },
+  {
+    "id": 23,
+    "fa": "یک اشتباه قدیمی را ببخش.",
+    "en": "Forgive an old mistake today.",
+    "ar": "سامح خطأً قديمًا اليوم."
+  },
+  {
+    "id": 24,
+    "fa": "برای یکی از مردگان آشنا فاتحه بخوان.",
+    "en": "Recite Al-Fatiha for a deceased loved one.",
+    "ar": "اقرأ الفاتحة لأحد موتاك."
+  },
+  {
+    "id": 25,
+    "fa": "دل کسی را سنگین نکن با غر زدن.",
+    "en": "Don't burden others with complaints today.",
+    "ar": "لا تُثقل قلب أحدٍ بالتذمّر اليوم."
+  },
+  {
+    "id": 26,
+    "fa": "امروز تمرین سکوت کن.",
+    "en": "Practice silence today.",
+    "ar": "تمرّن على الصمت اليوم."
+  },
+  {
+    "id": 27,
+    "fa": "یک نفر را تشویق کن، حتی با یک جمله.",
+    "en": "Encourage someone, even with a single sentence.",
+    "ar": "شجّع شخصًا ولو بجملة واحدة."
+  },
+  {
+    "id": 28,
+    "fa": "برای کسی که آزارت داده دعا کن.",
+    "en": "Pray for someone who hurt you.",
+    "ar": "ادعُ لمن آذاك."
+  },
+  {
+    "id": 29,
+    "fa": "یک نعمت زندگی‌ات را قدر بدان.",
+    "en": "Appreciate one blessing in your life today.",
+    "ar": "قدّر نعمة واحدة في حياتك اليوم."
+  },
+  {
+    "id": 30,
+    "fa": "دل کسی را به مهربانی آرام کن.",
+    "en": "Soothe someone’s heart with kindness.",
+    "ar": "هدّئ قلب شخص بلُطف."
+  },
+{
+  "id": 31,
+  "fa": "امروز به طبیعت احترام بگذار، حتی با برنداشتن زباله‌ای کوچک.",
+  "en": "Respect nature today, even by picking up a small piece of trash.",
+  "ar": "احترم الطبيعة اليوم، ولو بالتقاط قطعة قمامة صغيرة."
+},
+{
+  "id": 32,
+  "fa": "برای کسی که مدتیه ندیدی پیام بده.",
+  "en": "Send a message to someone you haven't talked to in a while.",
+  "ar": "ارسل رسالة لشخص لم تتحدث معه منذ مدة."
+},
+{
+  "id": 33,
+  "fa": "امروز بد کسی رو نخواه.",
+  "en": "Don't wish bad for anyone today.",
+  "ar": "لا تتمنَّ الشر لأحد اليوم."
+},
+{
+  "id": 34,
+  "fa": "به یک حیوان کمک کن یا آب و غذا براش بذار.",
+  "en": "Help an animal or leave food and water for it.",
+  "ar": "ساعد حيوانًا أو ضع له طعامًا وماءً."
+},
+{
+  "id": 35,
+  "fa": "برای آینده‌ات دعا کن و امیدوار باش.",
+  "en": "Pray and be hopeful for your future.",
+  "ar": "ادعُ وتفاءل بمستقبلك."
+},
+{
+  "id": 36,
+  "fa": "امروز به کسی حسادت نکن.",
+  "en": "Avoid envy today.",
+  "ar": "تجنّب الحسد اليوم."
+},
+{
+  "id": 37,
+  "fa": "یک نیت خوب در دلت بکار، حتی اگر عملی‌اش نکردی.",
+  "en": "Hold a good intention in your heart, even if you don’t act on it.",
+  "ar": "احمل نية طيبة في قلبك، حتى إن لم تنفّذها."
+},
+{
+  "id": 38,
+  "fa": "برای خودت دعا کن؛ تو هم مهمی.",
+  "en": "Pray for yourself too — you matter.",
+  "ar": "ادعُ لنفسك أيضًا، فأنت مهم."
+},
+{
+  "id": 39,
+  "fa": "به جای غر زدن، امروز تشکر کن.",
+  "en": "Replace complaints with gratitude today.",
+  "ar": "استبدل الشكوى بالشكر اليوم."
+},
+{
+  "id": 40,
+  "fa": "حتی یک جمله از یک کتاب خوب بخوان.",
+  "en": "Read even one sentence from a good book.",
+  "ar": "اقرأ جملة واحدة على الأقل من كتاب جيد."
+},
+{
+  "id": 41,
+  "fa": "دل کسی را با پیام محبت‌آمیز گرم کن.",
+  "en": "Warm someone's heart with a kind message.",
+  "ar": "أدفئ قلب شخص برسالة طيبة."
+},
+{
+  "id": 42,
+  "fa": "امروز با عجله قضاوت نکن.",
+  "en": "Avoid judging in haste today.",
+  "ar": "لا تحكم بعجلة اليوم."
+},
+{
+  "id": 43,
+  "fa": "به کودکی لبخند بزن یا مهربانی کن.",
+  "en": "Smile at or show kindness to a child.",
+  "ar": "ابتسم لطفل أو عامله بلطف."
+},
+{
+  "id": 44,
+  "fa": "دعا کن خدا غم کسی رو کم کنه.",
+  "en": "Pray that God eases someone's sorrow.",
+  "ar": "ادعُ أن يخفّف الله حزن شخص ما."
+},
+{
+  "id": 45,
+  "fa": "یک عذرخواهی دیرهنگام رو انجام بده.",
+  "en": "Make that long overdue apology.",
+  "ar": "قدّم اعتذارًا تأخّر طويلًا."
+},
+{
+  "id": 46,
+  "fa": "برای کسانی که در راهند دعا کن سالم برسن.",
+  "en": "Pray for safe travels for someone on the road.",
+  "ar": "ادعُ لمن يسافر أن يصل سالمًا."
+},
+{
+  "id": 47,
+  "fa": "موقع حرف زدن، گوش کن هم نه فقط صحبت کن.",
+  "en": "When talking, also listen — not just speak.",
+  "ar": "عند الحديث، استمع أيضًا ولا تتكلّم فقط."
+},
+{
+  "id": 48,
+  "fa": "به کسی کمک کن بدون اینکه بفهمه.",
+  "en": "Help someone secretly, without them knowing.",
+  "ar": "ساعد شخصًا دون أن يعلم."
+},
+{
+  "id": 49,
+  "fa": "چند دقیقه سکوت برای فکر کردن داشته باش.",
+  "en": "Take a few silent minutes to reflect.",
+  "ar": "خذ بضع دقائق من الصمت للتفكير."
+},
+{
+  "id": 50,
+  "fa": "با لبخند به آینه نگاه کن و بگو: الحمدلله.",
+  "en": "Smile at the mirror and say: Alhamdulillah.",
+  "ar": "ابتسم للمرآة وقل: الحمد لله."
+}
+]

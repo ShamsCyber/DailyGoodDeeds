@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundLight"
+    android:fitsSystemWindows="true"
+    android:gravity="center_horizontal"
+    android:layoutDirection="locale"
+    android:orientation="vertical"
+    android:weightSum="5">
+
+    <LinearLayout
+        android:id="@+id/ly_TopMain"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.75"
+        android:background="@drawable/new_header_bg_ltr"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/languageSelector"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="24dp"
+            android:text="@string/language"
+            android:textColor="@color/textPrimary"
+            android:textSize="14sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/deedTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:gravity="center"
+                android:layoutDirection="locale"
+                android:lineSpacingExtra="6dp"
+                android:textAlignment="center"
+                android:textColor="@color/textOnPrimary"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                tools:text="Do a good job !" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/doneButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/deedTextView"
+                android:layout_marginTop="8dp"
+                android:backgroundTint="@color/positiveGreen"
+                android:text="@string/done"
+                android:textAllCaps="false"
+                android:textColor="@android:color/white"
+                app:cornerRadius="24dp" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/shareButton"
+                android:layout_below="@id/doneButton">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:id="@+id/popupHelp"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:layout_weight="0.5"
+                        android:justificationMode="inter_word"
+                        android:layoutDirection="locale"
+                        android:lineSpacingExtra="4dp"
+                        android:text="@string/quick_help"
+                        android:textColor="@color/textOnPrimary"
+                        android:textSize="14sp"
+                        tools:text="اینجا هر روز یه کار خوب بهت پیشنهاد میشه که انجامش بدی و حال دلت بهتر شه
+بعدش می‌تونی بزنی انجام دادم تا یادت بمونه توی این ماه انجامش دادی
+اگه خواستی، زنگ هشدار بذار یا یه کار خوب جدید اضافه کن
+حتی می‌تونی با دوستاتم شیرش کنی تا اونا هم ثواب کنن" />
+
+                </LinearLayout>
+
+
+            </ScrollView>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/shareButton"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:text="@string/share"
+                android:textAllCaps="false"
+                android:textColor="@color/textOnPrimary"
+                app:cornerRadius="16dp"
+                app:strokeColor="@color/textOnPrimary"
+                app:strokeWidth="1dp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_weight="0.7"
+        android:orientation="horizontal"
+        android:padding="4dp"
+        android:weightSum="3">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/iv_notificationSwitch"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:src="@drawable/switch_alarm"
+                android:text="@string/daily_reminder" />
+
+            <!-- سوئیچ بزرگتر -->
+            <com.google.android.material.switchmaterial.SwitchMaterial
+                android:id="@+id/notificationSwitch"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:text="@string/daily_reminder"
+                android:textColor="@color/textPrimary" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/iv_setAlarmTimeButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:src="@drawable/set_alarm"
+                android:text="@string/daily_reminder" />
+
+            <TextView
+                android:id="@+id/setAlarmTimeButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/set_alarm"
+                android:textColor="@color/textPrimary" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/iv_openDeedListButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:src="@drawable/open_list"
+                android:text="@string/daily_reminder" />
+
+            <TextView
+                android:id="@+id/openDeedListButton"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/deeds_list"
+                android:textColor="@color/textPrimary" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="4dp"
+        android:layout_marginTop="24dp"
+        android:layout_weight="1.55"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="6dp"
+        app:strokeColor="@color/colorPrimary"
+        app:strokeWidth="1dp">
+
+        <LinearLayout
+            android:id="@+id/askQuestionLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:orientation="vertical"
+            android:padding="4dp"
+            android:visibility="visible"
+            android:weightSum="6">
+
+
+            <EditText
+                android:id="@+id/questionInput"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_margin="4dp"
+                android:layout_weight="2"
+                android:background="@android:drawable/editbox_background"
+                android:hint="@string/ai_questtion_hint"
+                android:inputType="text"
+                android:maxLength="200"
+                android:textColor="@color/textPrimary" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.8"
+                android:gravity="start"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <Button
+                    android:id="@+id/sendQuestionBtn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2.5"
+                    android:enabled="false"
+                    android:gravity="center"
+                    android:text="@string/send"
+                    android:textSize="16dp" />
+
+                <ImageView
+                    android:id="@+id/btnEditAPI"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|center"
+                    android:layout_margin="12dp"
+                    android:layout_weight="0.5"
+                    android:src="@drawable/settings_l_icon" />
+
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/answerTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:layout_weight="2.2"
+                android:maxLength="200"
+                android:textColor="@color/textSecondary"
+                android:textSize="15sp"
+                tools:text="پاسخ مناسب" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/layoutInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:orientation="vertical"
+            android:padding="4dp"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:text="@string/api_key_google_ai"
+                android:textColor="@color/textSecondary"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:orientation="horizontal"
+                android:padding="4dp"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/OpenGoogleApi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:text="@string/create_api_key"
+                    android:textColor="@android:color/white" />
+
+
+                <Button
+                    android:id="@+id/btnAddFirstApi"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/positiveGreen"
+                    android:text="@string/add_api_key"
+                    android:textColor="@android:color/white" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+</LinearLayout>
